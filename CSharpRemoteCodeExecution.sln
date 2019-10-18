@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSRCE Server", "CSharpRemoteCodeExecution\CSRCE Server.csproj", "{D1AF4C18-AE45-4072-AE5E-881C3FF19472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSRCE Client", "CSRCE Client\CSRCE Client.csproj", "{F56F62C7-25CA-48B0-9EC4-5DE7DA5447D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1AF4C18-AE45-4072-AE5E-881C3FF19472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AF4C18-AE45-4072-AE5E-881C3FF19472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AF4C18-AE45-4072-AE5E-881C3FF19472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AF4C18-AE45-4072-AE5E-881C3FF19472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56F62C7-25CA-48B0-9EC4-5DE7DA5447D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56F62C7-25CA-48B0-9EC4-5DE7DA5447D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56F62C7-25CA-48B0-9EC4-5DE7DA5447D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56F62C7-25CA-48B0-9EC4-5DE7DA5447D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E181A8E-FC67-46D7-8DBF-655AE0834E44}
+	EndGlobalSection
+EndGlobal
